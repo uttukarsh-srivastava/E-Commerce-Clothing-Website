@@ -1,0 +1,47 @@
+/* Header.css */
+
+/* .main-header { */
+  /* background-color: #0f172a; dark slate */
+  /* color: #f1f5f9; light text */
+  /* padding: 1rem 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin: 0;
+  font-weight: 600;
+  color: #f8fafc;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #e2e8f0;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+  padding-bottom: 2px;
+}
+
+.nav-links a:hover,
+.nav-links a:focus {
+  color: #38bdf8; sky blue
+  border-bottom: 2px solid #38bdf8;
+} */
